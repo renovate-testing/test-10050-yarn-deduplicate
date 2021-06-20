@@ -1,7 +1,5 @@
 {
   "extends": [
-    "config:base",
-    ":prConcurrentLimit10",
     "group:allNonMajor"
   ],
   "postUpdateOptions": [
