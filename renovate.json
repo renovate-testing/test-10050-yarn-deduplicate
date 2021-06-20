@@ -1,7 +1,5 @@
 {
-  "extends": [
-    "group:allNonMajor"
-  ],
+  "extends": [],
   "postUpdateOptions": [
     "yarnDedupeFewer"
   ],
