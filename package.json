@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "@octokit/graphql": "4.6.1",
-    "@types/node": "^14.14.9"
+    "@types/node": "^15.0.0"
   }
 }
